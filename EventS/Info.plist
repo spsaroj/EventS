@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SeatGeekClientID</key>
+	<string>MjY4NTg3MzZ8MTY1MTg3ODAyMC43MDM1NDY4</string>
+	<key>SeatGeekClientSecret</key>
+	<string>52c3ca09ecc4a2f2b31649db372666365cc03fbf1320415fa90279f0ff0d9b8c</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>itcmachine-medium.ttf</string>
+		<string>Archivo.ttf</string>
+	</array>
+</dict>
+</plist>

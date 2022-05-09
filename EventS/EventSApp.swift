@@ -11,7 +11,7 @@ import SwiftUI
 struct EventSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchEventsView()
         }
     }
 }
